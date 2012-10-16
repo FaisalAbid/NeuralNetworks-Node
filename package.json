@@ -1,0 +1,9 @@
+{
+  "name": "Node Neural Network",
+  "version": "0.0.1",
+  "author": "Faisal Abid <faisal.abid@gmail.com>",
+  "description": "Just me playing with neural networks",
+  "dependencies": {
+    "brain": "~0.6.0"
+  }
+}
